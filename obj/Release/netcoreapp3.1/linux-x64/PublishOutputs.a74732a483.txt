@@ -1,0 +1,11 @@
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\GetCoinPrice.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\GetCoinPrice.deps.json
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\GetCoinPrice.runtimeconfig.json
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\GetCoinPrice.pdb
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\AWSSDK.APIGateway.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\austin\source\repos\GetCoinPrice\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

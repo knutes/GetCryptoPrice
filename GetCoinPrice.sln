@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetCoinPrice", "GetCoinPrice.csproj", "{1673B47C-BF39-46C5-9BCA-C6B500C00521}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetCoinPrice.Tests", "..\GetCoinPrice.Tests\GetCoinPrice.Tests.csproj", "{B260AD6B-80FE-4E7F-89AB-0204B6BD9C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1673B47C-BF39-46C5-9BCA-C6B500C00521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1673B47C-BF39-46C5-9BCA-C6B500C00521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1673B47C-BF39-46C5-9BCA-C6B500C00521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1673B47C-BF39-46C5-9BCA-C6B500C00521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B260AD6B-80FE-4E7F-89AB-0204B6BD9C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B260AD6B-80FE-4E7F-89AB-0204B6BD9C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B260AD6B-80FE-4E7F-89AB-0204B6BD9C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B260AD6B-80FE-4E7F-89AB-0204B6BD9C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9792CB44-FE73-43AE-83C5-FA636B231988}
+	EndGlobalSection
+EndGlobal
